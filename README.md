@@ -1,4 +1,4 @@
-# essato-recruitment-task
+# Instruction
  To setup and run the application:
 1. Clone the GitHub repository to your local machine
 2. Open Visual Studio and select "Open a project or solution" from the start screen. Navigate to the directory where you cloned the repository, select the .sln file and click "Open".
